@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,etrade.net
 DOMAIN-SUFFIX,salesforce.com
 
 # CN Miss
-DOMAIN-SUFFIX,517md.com
-DOMAIN-SUFFIX,sealineholiday.com
-DOMAIN-SUFFIX,maldives123.com
-DOMAIN-SUFFIX,xuandao.la
+#DOMAIN-SUFFIX,517md.com
+#DOMAIN-SUFFIX,sealineholiday.com
+#DOMAIN-SUFFIX,maldives123.com
+#DOMAIN-SUFFIX,xuandao.la
