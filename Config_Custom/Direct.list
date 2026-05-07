@@ -6,12 +6,17 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,msftcomecttest.com
 DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
+DOMAIN-SUFFIX,okta.com
+DOMAIN-SUFFIX,oktacdn.com
+DOMAIN-WILDCARD,ocsp.*.com
 
 # HK
 DOMAIN-SUFFIX,gov.hk
 DOMAIN-SUFFIX,bochk.com
+DOMAIN-SUFFIX,morningstar.com
 DOMAIN-SUFFIX,etnet.com.hk
 DOMAIN-SUFFIX,hsbc.com.hk
+DOMAIN-SUFFIX,hsbc.com
 DOMAIN-SUFFIX,etrade.com
 DOMAIN-SUFFIX,etrade.net
 DOMAIN-SUFFIX,salesforce.com
