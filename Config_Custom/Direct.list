@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,dns.msftncsi.com
 DOMAIN-SUFFIX,ipv6.msftconnecttest.com
 DOMAIN-SUFFIX,okta.com
 DOMAIN-SUFFIX,oktacdn.com
+DOMAIN-SUFFIX,trkcliq.com
 DOMAIN-WILDCARD,ocsp.*.com
 
 # HK
